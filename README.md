@@ -1,16 +1,13 @@
-### Hi there 👋
+## Matheus Lúcio
 
-<!--
-**fenxlol/fenxlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Specialist
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@fenxlol-0b63bd?style=flat&labelColor=0b63bd&logo=twitter&logoColor=white&link=https://twitter.com/fenxlol)](https://twitter.com/fenxlol) 
+[![Instagram Badge](https://img.shields.io/badge/-@fenxlol-0b63bd?style=flat&labelColor=0b63bd&logo=instagram&logoColor=white&link=https://instagram.com/fenxlol)](https://instagram.com/fenxlol) 
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Lúcio-0b63bd?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuslucio/)](https://www.linkedin.com/in/matheuslucio/) 
+[![Gmail Badge](https://img.shields.io/badge/-matheusluciox@gmail.com-0b63bd?style=flat&logo=Gmail&logoColor=white&link=mailto:matheusluciox@gmail.com)](mailto:matheusluciox@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Senior Full Stack Developer, with experience and knowledge in Cloud Computing.
+
+Specialist in Software Engineering and Architecture.
+
