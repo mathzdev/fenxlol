@@ -11,3 +11,4 @@ Senior Full Stack Developer, with experience and knowledge in Cloud Computing.
 
 Specialist in Software Engineering and Architecture.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fenxlol&show_icons=true&theme=react )
